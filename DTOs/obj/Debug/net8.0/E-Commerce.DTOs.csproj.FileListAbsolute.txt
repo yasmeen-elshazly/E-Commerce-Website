@@ -1,0 +1,15 @@
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\bin\Debug\net8.0\E-Commerce.DTOs.deps.json
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\bin\Debug\net8.0\E-Commerce.DTOs.dll
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\bin\Debug\net8.0\E-Commerce.DTOs.pdb
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\bin\Debug\net8.0\E-Commerce.Models.dll
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\bin\Debug\net8.0\E-Commerce.Models.pdb
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\obj\Debug\net8.0\E-Commerce.DTOs.csproj.AssemblyReference.cache
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\obj\Debug\net8.0\E-Commerce.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\obj\Debug\net8.0\E-Commerce.DTOs.AssemblyInfoInputs.cache
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\obj\Debug\net8.0\E-Commerce.DTOs.AssemblyInfo.cs
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\obj\Debug\net8.0\E-Commerce.DTOs.csproj.CoreCompileInputs.cache
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\obj\Debug\net8.0\E-Commer.9E5D0B4B.Up2Date
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\obj\Debug\net8.0\E-Commerce.DTOs.dll
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\obj\Debug\net8.0\refint\E-Commerce.DTOs.dll
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\obj\Debug\net8.0\E-Commerce.DTOs.pdb
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\DTOs\obj\Debug\net8.0\ref\E-Commerce.DTOs.dll

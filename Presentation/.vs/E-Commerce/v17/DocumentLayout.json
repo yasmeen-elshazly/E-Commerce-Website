@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI\\DATA\\ASP.Net\\Rad.Pro\\Final Project\\Presentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8557C31C-4053-4016-8DDE-D2F3DA3D7F72}|E-Commerce.Presentation.csproj|f:\\iti\\data\\asp.net\\rad.pro\\final project\\presentation\\controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8557C31C-4053-4016-8DDE-D2F3DA3D7F72}|E-Commerce.Presentation.csproj|solutionrelative:controllers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282CF69B-3869-4086-96B7-06B04A36EF04}|..\\Context\\E-Commerce.Context.csproj|f:\\iti\\data\\asp.net\\rad.pro\\final project\\context\\context\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\ASP.Net\\Rad.Pro\\Final Project\\Presentation\\Controllers\\User.cs",
+              "RelativeDocumentMoniker": "Controllers\\User.cs",
+              "ToolTip": "F:\\ITI\\DATA\\ASP.Net\\Rad.Pro\\Final Project\\Presentation\\Controllers\\User.cs",
+              "RelativeToolTip": "Controllers\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:10:45.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EcommerceContext.cs",
+              "DocumentMoniker": "F:\\ITI\\DATA\\ASP.Net\\Rad.Pro\\Final Project\\Context\\Context\\EcommerceContext.cs",
+              "RelativeDocumentMoniker": "..\\Context\\Context\\EcommerceContext.cs",
+              "ToolTip": "F:\\ITI\\DATA\\ASP.Net\\Rad.Pro\\Final Project\\Context\\Context\\EcommerceContext.cs",
+              "RelativeToolTip": "..\\Context\\Context\\EcommerceContext.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:04:24.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

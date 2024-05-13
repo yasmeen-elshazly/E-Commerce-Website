@@ -1,0 +1,15 @@
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\bin\Debug\net8.0\E-Commerce.Context.deps.json
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\bin\Debug\net8.0\E-Commerce.Context.dll
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\bin\Debug\net8.0\E-Commerce.Context.pdb
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\bin\Debug\net8.0\E-Commerce.Models.dll
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\bin\Debug\net8.0\E-Commerce.Models.pdb
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\obj\Debug\net8.0\E-Commerce.Context.csproj.AssemblyReference.cache
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\obj\Debug\net8.0\E-Commerce.Context.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\obj\Debug\net8.0\E-Commerce.Context.AssemblyInfoInputs.cache
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\obj\Debug\net8.0\E-Commerce.Context.AssemblyInfo.cs
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\obj\Debug\net8.0\E-Commerce.Context.csproj.CoreCompileInputs.cache
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\obj\Debug\net8.0\E-Commer.74D9828E.Up2Date
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\obj\Debug\net8.0\E-Commerce.Context.dll
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\obj\Debug\net8.0\refint\E-Commerce.Context.dll
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\obj\Debug\net8.0\E-Commerce.Context.pdb
+F:\ITI\DATA\ASP.Net\Rad.Pro\Final Project\Context\obj\Debug\net8.0\ref\E-Commerce.Context.dll
